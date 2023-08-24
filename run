@@ -1,0 +1,5 @@
+javac -d . AtmOperations.java
+javac -d . AtmFunctionality.java
+javac -d . ATM.java
+javac -d . DriverClass.java
+java ATM.DriverClass
